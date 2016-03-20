@@ -1,0 +1,2 @@
+print("Good By World")
+print("Goodby")
